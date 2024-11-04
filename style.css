@@ -20,7 +20,7 @@ body {
 .pumpkin {
     height: 20em;
     width: 15em;
-    background: #eb8334;
+    background-image: url("imgs/purplebg.jpg");
     border: 0.4em solid #a14907;
     border-radius: 70%/110%;
     position: relative;
@@ -53,8 +53,8 @@ body {
     bottom: -0.4em;
     left: -2.5em;
     border-radius: 70%/130%;
-    border-bottom: 0.5 solid #a14907;
-    border-top: 0.5 solid #a14907;
+    border-bottom: 0.5 solid #5c07a1;
+    border-top: 0.5 solid #5607a1;
 }
 .pumpkin .root {
     background: #517f54;
@@ -91,7 +91,7 @@ body {
 }
 
 .pumpkin .mouth {
-    border-bottom: 3em solid #401b03;
+    border-bottom: 3em solid #230340;
     position: absolute;
     width: 4em;
     height: 2em;
